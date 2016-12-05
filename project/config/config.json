@@ -1,0 +1,9 @@
+{
+	"wechat" : {
+		"appID": "wx16ff32407d9292cb",
+		"appSecret": "8052991dfd97289bac5cb0b6512b1000",
+		"token": "thusports",
+		"prefix": "https://api.weixin.qq.com/cgi-bin/",  
+        "mpPrefix": "https://mp.weixin.qq.com/cgi-bin/" 
+	}
+}
